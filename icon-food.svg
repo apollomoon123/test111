@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- 智能农业图标：植物 + 电路叶片 -->
+  <!-- 花盆 -->
+  <path d="M40 85 L80 85 L75 100 L45 100 Z" stroke="#00e5ff" stroke-width="2.5" fill="rgba(0,229,255,0.05)" stroke-linejoin="round"/>
+  <!-- 植物茎 -->
+  <line x1="60" y1="85" x2="60" y2="45" stroke="#00e5ff" stroke-width="2.5"/>
+  <!-- 左叶 -->
+  <path d="M60 60 Q40 50 35 65 Q45 70 60 65" stroke="#0080ff" stroke-width="2" fill="rgba(0,128,255,0.1)"/>
+  <!-- 右叶 -->
+  <path d="M60 55 Q80 45 85 60 Q75 65 60 60" stroke="#0080ff" stroke-width="2" fill="rgba(0,128,255,0.1)"/>
+  <!-- 顶部发光果实 -->
+  <circle cx="60" cy="40" r="8" stroke="#00e5ff" stroke-width="2" fill="rgba(0,229,255,0.2)"/>
+  <circle cx="60" cy="40" r="3" fill="#00e5ff" opacity="0.8"/>
+  <!-- 能量波纹 -->
+  <circle cx="60" cy="40" r="14" stroke="#00e5ff" stroke-width="1" fill="none" opacity="0.3"/>
+  <circle cx="60" cy="40" r="20" stroke="#00e5ff" stroke-width="1" fill="none" opacity="0.15"/>
+</svg>
